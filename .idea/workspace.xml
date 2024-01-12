@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc196d1-9969-43ce-bb84-4fdf48c6d70c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_13823.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_13823.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" afterDir="false" />
@@ -83,7 +82,7 @@
       <updated>1705081785758</updated>
       <workItem from="1705081786750" duration="1954000" />
       <workItem from="1705083842923" duration="1515000" />
-      <workItem from="1705085464244" duration="2238000" />
+      <workItem from="1705085464244" duration="2576000" />
     </task>
     <servers />
   </component>
